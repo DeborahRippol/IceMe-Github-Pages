@@ -109,6 +109,7 @@ body{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	font-size: 18px;
+	color: white;
 }
 
 .image-margin-top img{
@@ -166,4 +167,18 @@ body{
 
 .navbar-right{
 	font-size: 16px;
+}
+
+.form-group p{
+	font-size: 25px;
+	font-weight: 700;
+	padding-bottom: 1em;
+	color: #1E3259;
+	letter-spacing: 1px;
+}
+
+.signup{
+	background-color: #D9A08B;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
